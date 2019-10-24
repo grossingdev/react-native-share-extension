@@ -5,6 +5,8 @@
 #define URL_IDENTIFIER @"public.url"
 #define IMAGE_IDENTIFIER @"public.image"
 #define TEXT_IDENTIFIER (NSString *)kUTTypePlainText
+#define VIDEO_IDENTIFIER_MPEG_4 @"public.mpeg-4"
+#define VIDEO_IDENTIFIER_QUICK_TIME_MOVIE @"com.apple.quicktime-movie"
 
 NSExtensionContext* extensionContext;
 
